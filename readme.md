@@ -3,7 +3,7 @@ Tempuckey is a temporally labeled database of hockey videos that span over more 
 
 <img src="https://github.com/R2D2oid/Tempuckey/blob/master/docs/tempuckey_info.png" alt="Tempuckey Dataset Info" width="800"/>
 
-An example *tripping* action from Tempuckey dataset is displayed below. (green) indicates frames that belong to the action and (red) indicates frames that do not belong to that action
+An example *tripping* action from Tempuckey dataset is displayed below. (<span style="color:green">green</span>) indicates frames that belong to the action and (red) indicates frames that do not belong to that action.
 
 <img src="https://github.com/R2D2oid/Tempuckey/blob/master/docs/tempuckey_tripping_example.png" alt="Tripping" width="600"/>
 
